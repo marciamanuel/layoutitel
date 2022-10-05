@@ -1,0 +1,85 @@
+*{
+    padding:0;
+    margin:0;
+    top:0;
+}
+
+
+
+.logoitel{
+    top: 2px;
+    left: 140px;
+    width: 122px;
+    height: 122px;
+}
+
+.pad{
+    padding-top: 20px;
+}
+
+.txttitle {
+    
+    text-align: center;
+    font: normal normal normal 27px/33px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.ptitle{
+    text-align: left;
+    font: normal normal bold 16px/19px Montserrat;
+    letter-spacing: 0px;
+    color: #646464;
+    opacity: 1;
+}
+.htxt{
+    font: normal normal normal 15px/23px Montserrat;
+}
+
+.section3{
+   
+    left: 0px;
+    height: 600px;
+    background: #EFEFEF 0% 0% no-repeat padding-box;
+    border-radius: 0px 0px 294px 0px;
+    opacity: 1;
+}
+
+.linediv{
+    height: 2px;
+    background: #EFEFEF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    padding: 5px;
+}
+
+.card-title{
+text-align: left;
+font: normal normal bold 25px/30px Montserrat;
+letter-spacing: 0px;
+color: #646464;}
+
+.card-text{
+text-align: left;
+font: normal normal normal 15px/20px Lato;
+letter-spacing: 0px;
+color: #8B8B8B;
+}
+span{
+
+    text-align: left;
+    font: normal normal bold 15px/20px Montserrat;
+    letter-spacing: 0px;
+    color: #646464;
+    opacity: 1;
+
+}
+.card{
+    height: 100%;
+}
+
+.formados{
+    background: #EFEFEF 0% 0% no-repeat padding-box;
+border-radius: 294px 0px;
+opacity: 1;
+}
